@@ -1,6 +1,6 @@
 # this file describes how to build tsuru play image
 # to run it:
-# 1 - tsuru-admin platform-add play -d https://raw.github.com/tsuru/basebuilder/master/play/Dockerfile
+# 1 - tsuru-admin platform-add play -d https://raw.githubusercontent.com/woutersterp/basebuilder/master/play/Dockerfile
 
 from ubuntu:14.04
 run apt-get update
